@@ -38,14 +38,14 @@
      
    
      
-     <h3><b>PROFILE</b></h3></center>
+     <h3><b>PROFILE</b></h3>
       <p>I am Daniel Oluwanifemi OSO. <br>
           A student of KWARA STATE UNIVERSITY. <br>
           I am studying computer science with matric nubmber 18/67am/00237 <br>
          I'm into entertainment and online trades. <br></p>
      
     <div class="column">
-       <center><div class="content"><img src="images/d54cff66-55cf-4b86-89dd-d53c59d9091a.jpg" alt="newyork">
+       <div class="content"><img src="images/d54cff66-55cf-4b86-89dd-d53c59d9091a.jpg" alt="newyork">
         <h3><b>MY WORK</b></h3>
         <p><li>ONLINE TRADING</li></p><br>
         <p><li>ENTERTAINMENT</li></p><br>
