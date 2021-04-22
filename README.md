@@ -1,5 +1,5 @@
 # 18-67am-00237-Oso-Daniel
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
